@@ -1,131 +1,94 @@
 # Intelligent Document Processing
 
-**AI-powered data extraction tool that converts PDFs, images, and scanned documents into structured data in seconds.**
+**Extract structured data from PDFs, images, and scanned documents. Convert unstructured business documents into actionable data.**
 
-Extract text, tables, and data from any document format with our intelligent document processing engine.
+Process invoices, contracts, forms, and receipts with AI-powered document understanding.
 
-## Features
+**[Agentic Document Extraction](https://www.dataextractor.org/)**
+
+## Core Capabilities
 
 ### PDF Text Recognition
-- **PDF Text Recognition**: Extract text from scanned PDFs and images with 99% accuracy
-- **Intelligent Character Recognition**: Process handwritten forms and complex layouts
-- **Text Extraction from Image**: Convert photos and scanned documents to editable text
-- **Extraer Texto de PDF**: Multi-language support including Spanish document processing
+Extract text from scanned PDFs and image-based documents. Handle complex layouts, tables, and multi-column formats with high accuracy text recognition.
 
-### Document Conversion Tools
-- **PDF to Excel**: Extract data from PDF to Excel with preserved table structures
-- **PDF to Markdown**: Convert PDF documents to markdown for documentation systems
-- **PDF to AI**: Prepare documents for LLM applications and machine learning
-- **PDF to JSON**: Transform documents to structured JSON format
-- **PDF to CSV**: Export tables and data to CSV spreadsheets
-- **PDF to XML**: Convert to XML for enterprise data integration
+### Agentic Document Extraction
+Autonomous AI agents analyze document structure and content relationships. **Agentic document extraction** processes diverse document formats without manual template configuration.
 
-### Advanced Data Extraction
-- **Extract Data from PDF**: Comprehensive extraction with visual layout understanding
-- **Extract Data from PDF to Excel**: Automated conversion with formatting preservation
-- **Extract Table Data from PDF**: Handle complex visual layouts and table relationships
-- **Extract Data from Image**: Visual content analysis and data interpretation
-- **Extracting Data from PDF**: Batch processing for large document volumes
-- **PDF Data Extraction**: Enterprise-grade document processing solutions
+### Data Extraction Tools
+**Extract data from PDF to Excel** - Convert PDF tables and forms into structured spreadsheets. Preserve formatting and data relationships.
 
-### AI-Powered Processing
-- **AI Data Extraction**: Machine learning models for intelligent document understanding
-- **AI-Based Data Extraction**: Context-aware extraction with continuous learning
-- **AI to Extract Data from PDF**: Advanced algorithms for complex document parsing
-- **AI Image Analyzer**: Visual content analysis and chart interpretation
-- **Extract Contract Data with AI**: Legal document processing automation
-- **Extract Data from PDF AI**: Free AI-powered extraction tools
+**PDF to Markdown** - Transform documents into clean markdown for documentation systems and content management.
+
+**Extract data from image** - Process photos of documents, receipts, and handwritten forms with **intelligent character recognition**.
 
 ### Business Document Processing
-- **Invoice Processing**: Automated invoice data extraction and validation
-- **Invoice Data Extraction**: AP automation with field-level accuracy
-- **Document Workflow Automation**: End-to-end document processing pipelines
-- **Document Process Automation**: Streamlined business document handling
-- **Intelligent Document Processing**: Contextual understanding and data enrichment
-- **Data Extractor**: Universal tool for all document extraction needs
+**Invoice processing** - Automated extraction of vendor details, line items, totals, and payment terms from invoices.
 
-## PDF Text Recognition Capabilities
+**Invoice data extraction** - Field-level accuracy for accounts payable automation and ERP integration.
 
-### Advanced Text Recognition
-Transform any PDF into machine-readable text with our advanced PDF text recognition technology that handles:
-- Scanned documents and images
-- Handwritten text and forms
-- Multi-language documents
-- Complex layouts and formatting
+**Extract contract data with AI** - Parse legal documents for key terms, dates, parties, and obligations.
 
-### How PDF Text Recognition Works
-1. Upload PDF or image file
-2. AI analyzes document structure and layout
-3. Extracts text with contextual understanding
-4. Outputs structured, searchable data
+### Automated Workflows
+**Document workflow automation** - API-driven processing for high-volume document operations.
 
-## Document Conversion Examples
+**Document process automation** - Streamline business processes with intelligent document routing and data validation.
 
-### PDF to Excel Conversion
-Transform PDF tables and forms into Excel spreadsheets with preserved formatting, formulas, and data relationships.
+**PDF data extraction** - Batch processing capabilities for enterprise document archives.
 
-### PDF to Markdown Processing
-Convert PDF documents into clean markdown format perfect for documentation, wikis, and content management systems.
+## Advanced Processing
 
-### PDF to AI Data Preparation
-Process documents for machine learning applications, creating LLM-ready structured data from unstructured PDFs.
+### AI-Powered Extraction
+**AI data extraction** - Machine learning models trained on diverse document types for accurate field recognition.
 
-### How to Extract Data from PDF to Excel
-1. Upload your PDF document
-2. Select Excel output format
-3. AI analyzes layout and structure
-4. Download formatted Excel file
+**AI-based data extraction** - Context-aware processing that understands document semantics and data relationships.
 
-## Advanced Extraction Capabilities
+**AI to extract data from PDF** - Advanced algorithms handle complex document structures and layouts.
 
-### Text Extraction from Image
-- Scanned documents and photos
-- Handwritten text recognition
-- Multi-language character recognition
-- Complex layouts and formatting preservation
+**AI image analyzer** - Analyze charts, graphs, and visual elements within documents for comprehensive data capture.
 
-### Extract Table Data from PDF
-- Preserve table structures and relationships
-- Handle merged cells and complex formatting
-- Maintain data types and numerical precision
-- Export to multiple formats (Excel, CSV, JSON)
+### Table and Form Extraction
+**Extract table data from PDF** - Handle complex table structures with merged cells, headers, and nested data.
 
-### Data Extraction Tools Suite
-- **Batch Processing**: Handle hundreds of documents simultaneously
-- **Custom Field Extraction**: Define specific data points for extraction
-- **Template Creation**: Build reusable extraction templates
-- **API Integration**: Connect with existing business systems
+**Text extraction from image** - OCR technology processes scanned documents, photos, and handwritten content.
 
-## Use Cases by Document Type
+**Extracting data from PDF** - Comprehensive extraction covering text, tables, forms, and metadata.
 
-### Financial Documents
-- **Invoice Data Extraction**: Automated vendor invoice processing
-- **Receipt Processing**: Expense management automation
-- **Bank Statements**: Financial data conversion and analysis
-- **Purchase Orders**: Procurement document processing
-- **Tax Documents**: Automated tax preparation data extraction
+## Document Processing Tools
 
-### Business Documents
-- **Extract Contract Data with AI**: Legal document analysis and processing
-- **Form Processing**: Intelligent form field recognition
-- **Report Conversion**: Transform business reports to structured data
-- **Statement Processing**: Financial and operational document handling
-- **Certificate Processing**: Document verification and data extraction
+### Universal Data Extractor
+**Data extractor** - Single tool for processing multiple document formats and extracting structured information.
 
-## Try the Tools
+**Data extraction tools** - Complete suite for document processing, validation, and export operations.
 
-**[Start Processing Documents](https://www.dataextractor.org/)**
+**How to extract data from PDF to Excel** - Step-by-step processing that maintains data integrity and formatting.
 
-**[PDF Text Recognition Tool](https://www.dataextractor.org/read-pdf)**
+### Multi-Language Support
+**Extraer texto de PDF** - Spanish language support for international document processing requirements.
 
-## Supported Formats
+Cross-language document processing with support for 100+ languages and character sets.
 
-**Input**: PDF, PNG, JPG, TIFF, WEBP, scanned documents  
-**Output**: Excel (XLSX), CSV, JSON, XML, Markdown
+## Integration and Export
 
-## Industries
+### Output Formats
+- Excel (XLSX) with preserved formatting
+- CSV for database imports
+- JSON for API integrations
+- XML for enterprise systems
+- Markdown for documentation
 
-- **Financial Services**: Invoice processing, contract analysis
-- **Healthcare**: Medical form processing, patient records
-- **Legal**: Document review, contract data extraction
-- **Logistics**: Shipping documents, inventory processing
+### Enterprise Features
+- REST API for system integration
+- Webhook support for real-time processing
+- Batch processing for high-volume operations
+- Custom field extraction and validation rules
+
+## Try the Platform
+
+**[Process Documents](https://www.dataextractor.org/)**
+
+**[PDF Processing Tool](https://www.dataextractor.org/read-pdf)**
+
+## Supported Document Types
+
+**Input**: PDF, PNG, JPG, TIFF, WEBP, DOC, DOCX, XLS, XLSX  
+**Output**: Excel, CSV, JSON, XML, Markdown
